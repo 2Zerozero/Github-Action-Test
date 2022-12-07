@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://Github-Action-Test \
             --delete
-        working-directory: "./apps/my-test-app"
+        working-directory: "./my-agora-states-client"
